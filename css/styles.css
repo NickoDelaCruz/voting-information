@@ -1,0 +1,8 @@
+#oldEnough, #notOldEnough {
+  display: none;
+}
+
+body {
+  text-align: center;
+  background-color: darksalmon;
+}
